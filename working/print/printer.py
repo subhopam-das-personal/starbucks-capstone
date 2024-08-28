@@ -15,5 +15,5 @@ def print_done():
     Prints a celebration message indicating job completion.
     """
     celebration_message = "Celebration: your job completed"
-    emojis = "🎉" * 26
+    emojis = "✨" * 26  # Sparkles emoji
     print(f"{celebration_message} {emojis}")
