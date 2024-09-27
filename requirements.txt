@@ -1,0 +1,8 @@
+importlib-metadata
+tabulate
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ipykernel
