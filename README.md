@@ -75,13 +75,16 @@ The project is organized into the following directories and files:
   - `starbucks_capstone_notebook.ipynb`: contains separate sections along with reasoning for data cleansing, exploratory data anakysis and final model training and evaluation
 
 ### Libraries Used:
-- `importlib-metadata`
-- `tabulate`
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
+```
+importlib-metadata==4.8.1
+tabulate==0.8.9
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
+seaborn==0.11.2
+scikit-learn==0.24.2
+ipykernel==6.4.1
+```
 
 ## Installation
 
