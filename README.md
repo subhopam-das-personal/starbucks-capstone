@@ -74,7 +74,22 @@ The project is organized into the following directories and files:
 - **notebooks/**: Contains Jupyter notebooks used for data exploration, analysis, and model development.
   - `starbucks_capstone_notebook.ipynb`: contains separate sections along with reasoning for data cleansing, exploratory data anakysis and final model training and evaluation
 
+### Libraries Used:
+- `importlib-metadata`
+- `tabulate`
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
 
+## Installation
+
+To install the required libraries, you can use the provided `requirements.txt` file. Run the following command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Documentation
 
@@ -83,3 +98,4 @@ The project is organized into the following directories and files:
 
 This structure ensures that the project is well-organized and that each component is easily accessible for development, testing, and deployment.
 
+### Licensing Authoring and Acknowledgement
